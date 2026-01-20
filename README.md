@@ -89,7 +89,7 @@ finalResults = ViscosityPredictor( ...
     useVFT, ...
     outputFile );
 
-Citation
+## Citation
 
 If you use this software, please cite:
 
