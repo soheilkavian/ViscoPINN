@@ -88,7 +88,9 @@ finalResults = ViscosityPredictor( ...
     LowT, StepT, HighT, ...
     useVFT, ...
     outputFile );
+```
 
+---
 ## Citation
 
 If you use this software, please cite:
@@ -97,3 +99,4 @@ Soheil Kavian, Arian Zarriz, Matthew J. Powell-Palm1, [Journal Name], 2026.
 A Large-Scale Dataset and Physics-Informed Neural Network for Viscosity Prediction in Many-Component Aqueous and Organic Solutions.
 
 (Full citation provided in the manuscript.)
+
