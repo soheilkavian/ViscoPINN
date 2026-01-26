@@ -39,7 +39,9 @@ The package is distributed in two complementary forms:
 ---
 
 ### Standalone Application
-- **`MyAppInstaller_web.exe`**  
+- **`MyAppInstaller_web.exe`**
+- <img width="975" height="508" alt="image" src="https://github.com/user-attachments/assets/e865a334-3a4b-41d3-9cf7-18eef4281610" />
+
   Standalone Windows executable providing a graphical user interface (GUI) for viscosity prediction.  
   This version does **not require MATLAB** and is intended for user-friendly, interactive use.
 
