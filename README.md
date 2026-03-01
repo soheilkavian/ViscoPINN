@@ -9,6 +9,7 @@ MATLAB code for physics-informed viscosity prediction of multicomponent aqueous 
 The package is distributed in two complementary forms:
 1. A **standalone Windows executable (.exe)** for plug-and-play use without MATLAB  
 2. A **MATLAB function-based interface** for scripting, automation, and reproducibility
+3. 2. A **Excel Datasheet** including training and test dataset
 
 ---
 
